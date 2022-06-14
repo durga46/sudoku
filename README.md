@@ -23,8 +23,6 @@ We reduce the puzzle using the two strategies.
 STEP 5:
 Search function is defined to find the final solution to a given sudoku puzzle.
 
-Sudoku puzzle
-Screenshot_718
 
 ## PROGRAM:
 ```python
@@ -126,7 +124,11 @@ time_taken=time.time() - start_time
 print("\n\n\nThe time required to solve the sudoku puzzle : {0} seconds".format(time_taken))
 ``` 
 ## OUTPUT:
-Screenshot_719
+![k1](https://user-images.githubusercontent.com/75235704/173546697-0ea8b4ce-2d2c-4068-8db6-3a7b796dfde9.png)
 
-RESULT:
+![k2](https://user-images.githubusercontent.com/75235704/173546710-9e52c39c-eca5-40d5-888c-e64c00dfd7d9.png)
+
+
+
+## RESULT:
 Hence, a python program has been developed to solve a given sudoku puzzle.
